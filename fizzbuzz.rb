@@ -20,7 +20,8 @@ def fizzbuzz(int)
 end
 
 def fizzbuzz(int)
-   if int % 15 == 0
+   if true
+     
     "nil"
   end
 end
