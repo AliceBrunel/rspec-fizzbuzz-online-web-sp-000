@@ -9,12 +9,12 @@ end
 
 def fizzbuzz(int)
    if int % 5 == 0
-    "Fizz"
+    "Buzz"
   end
 end
 
 def fizzbuzz(int)
    if int % 15 == 0
-    "Fizz"
+    "Fizzbuzz"
   end
 end
