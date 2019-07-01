@@ -18,3 +18,9 @@ def fizzbuzz(int)
     "Fizzbuzz"
   end
 end
+
+def fizzbuzz(int)
+   if int % 15 == 0
+    "nil"
+  end
+end
